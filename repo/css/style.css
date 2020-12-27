@@ -47,7 +47,7 @@
   line-height: 70px;
   border-radius: 45px;
   display: inline-block;
-  margin: 4px;
+  margin: 50px;
 }
 
 .github {
@@ -58,7 +58,7 @@
   color: #0077b5;
 }
 
-.angellist {
+.blog {
   color: grey;
 }
 
@@ -71,7 +71,7 @@
   background-color: #0077b5;
 }
 
-.angellist:hover {
+.blog:hover {
   background-color: grey;
 }
 
@@ -95,10 +95,6 @@
   -webkit-border-radius: 5px;
 }
 
-/* .readme:hover{
-  color: white;
-  background-color: #00796b;
-} */
 
 .contactme {
   position: relative;
@@ -124,35 +120,14 @@
 /* body-color */
 
 body {
-  color: #333;
-  font-size: 18px;
+  color: #333; /* color of text */
+  font-size: 16px; /* fontsize of text */
 }
-
-/* body {
-  color: black;
-  font-size: 18px;
-} */
-
-/* main a -- links */
-
-/* a {
-  color: #009688;
-} */
 
 a {
-  color: #004d40;
+  color: #004d40; /* color of ref text */
 }
 
-/* main blockqoute */
-
-/* blockquote {
-  border-left: 5px solid #795548;
-  color: #795548;
-  font-size: 125%;
-  font-weight: 400;
-  margin: 20px 0;
-  padding-left: 1.5rem;
-} */
 
 blockquote {
   border-left: 5px solid #795548;
@@ -180,12 +155,6 @@ nav {
   height: 0;
 }
 
-/* nav {
-  background: rgb(149, 126, 212);
-  box-shadow: none;
-  height: 0;
-} */
-
 nav i {
   padding: 0 15px;
   position: relative;
@@ -193,11 +162,6 @@ nav i {
 }
 
 /* main */
-
-/* main {
-  background: url(../../assets/img/bg.png) repeat;
-  padding-left: 190px;
-} */
 
 main {
   background: url(../../assets/img/bg.png) repeat;
@@ -227,14 +191,6 @@ ul.side-nav li {
   padding: 0;
 }
 
-/* ul.side-nav.fixed a {
-  box-sizing: content-box;
-  color: rgb(48, 122, 207);
-  display: block;
-  line-height: 100%;
-  padding: 10px 0 12px;
-} */
-
 ul.side-nav.fixed a {
   box-sizing: content-box;
   color: rgb(16, 202, 56);
@@ -247,14 +203,6 @@ ul.table-of-contents li.logo a.active, ul.table-of-contents li.logo a:hover {
   border: none;
   font-weight: 200;
 }
-
-/* ul.side-nav.fixed li.logo {
-  background-color: #fafafa;
-  border-bottom: 1px solid #ddd;
-  box-sizing: content-box;
-  min-height: 90px;
-  padding: 30px 30px 40px;
-} */
 
 ul.side-nav.fixed li.logo {
   background-color: #fafafa;
@@ -314,13 +262,9 @@ h3 {
 
 /* Original */
 
-/* #intro.section {
-  background: url(../../assets/img/white-ai-wallpaper.jpg) no-repeat top center/cover;
-  position: relative;
-} */
-
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #ffffff repeat; /*color of background */
+
   position: relative;
 }
 
@@ -331,13 +275,6 @@ h3 {
   position: absolute;
   top: 0;
 }
-
-/* #intro.section .container *:not(span) {
-  font-weight: 300;
-  line-height: 150%;
-  padding: 0 30px;
-  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
-} */
 
 #intro.section .container *:not(span) {
   font-weight: 300;
@@ -356,7 +293,7 @@ h3 {
 }
 
 .overlay {
-  background-color: rgba(0, 0, 0, 0.4);
+  /*background-color: rgba(0, 0, 0, 0.4);*/
   height: 100%;
   left: 0;
   position: absolute;
@@ -468,10 +405,6 @@ a.hoverline {
 
 /* main a.hoverline */
 
-/* a.hoverline:hover {
-  border-bottom: 3px solid #24305e !important;
-} */
-
 a.hoverline:hover {
   border-bottom: 3px solid #004d40 !important;
 }
@@ -552,19 +485,15 @@ small {
   color: #008073 !important;
 }
 
-/* .teal-text {
-  color: #0b5e86 !important;
-} */
+
 
 /* .teal */
-
+/* color of alireza bagheri box */
 .teal {
   background-color: #008073 !important;
 }
 
-/* .teal {
-  background-color: #00695c !important;
-} */
+
 
 @media (min-width: 1200px) {
   #experience .container {
