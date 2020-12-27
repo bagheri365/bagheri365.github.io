@@ -73,11 +73,11 @@
 }
 
 
-.blog {
+.blogger {
   color: grey;
 }
 
-.blog:hover {
+.blogger:hover {
   background-color: grey;
 }
 
