@@ -89,7 +89,7 @@
 
 body {
   color: #333; /* color of text */
-  font-size: 16px; /* fontsize of text */
+  font-size: 15px; /* fontsize of text */
 }
 
 a {
@@ -231,8 +231,7 @@ h3 {
 /* Original */
 
 #intro.section {
-  background: #ffffff repeat; /*color of background */
-
+  background: #ffffff repeat; /*color of background in intro section*/
   position: relative;
 }
 
@@ -272,7 +271,7 @@ h3 {
 .waves-effect.waves-blue .waves-ripple {
   /* The alpha value allows the text and background color
    of the button to still show through. */
-  background-color: rgba(33, 150, 243, 0.2);
+  background-color: rgba(33, 150, 243, 0.2); /* color of about title */
 }
 
 .card {
