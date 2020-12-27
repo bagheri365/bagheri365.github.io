@@ -35,7 +35,8 @@
   text-align: inherit;
   /* padding: 10px; */
 }
-
+/* ------------------------------- */
+/* icons below I am Alireza */
 .icon-btn {
   margin-left: auto;
   width: 50px;
@@ -63,7 +64,6 @@
   background-color: black;
 }
 
-
 .linkedin {
   color: #0077b5;
 }
@@ -71,7 +71,6 @@
 .linkedin:hover {
   background-color: #0077b5;
 }
-
 
 .blogger {
   color: black;
@@ -81,7 +80,6 @@
   background-color: black;
 }
 
-
 .twitter {
   color: #0077b5;
 }
@@ -89,9 +87,7 @@
 .twitter:hover {
   background-color: #0077b5;
 }
-
-
-
+/* ------------------------------- */
 /* main body */
 
 /* body-color */
@@ -123,7 +119,7 @@ blockquote * {
 .text-center {
   text-align: center;
 }
-
+/* ------------------------------- */
 /* main nav */
 
 nav {
@@ -137,7 +133,7 @@ nav i {
   position: relative;
   top: 5px;
 }
-
+/* ------------------------------- */
 /* main */
 
 main {
@@ -236,7 +232,7 @@ h3 {
 .full-height {
   height: 100vh;
 }
-
+/* ------------------------------- */
 /* Original */
 
 #intro.section {
@@ -325,7 +321,7 @@ h3 {
   margin-top: 2rem;
   text-transform: uppercase;
 }
-
+/* ------------------------------- */
 #experience .card-action {
   background-color: rgba(0, 0, 0, 0.02);
   border: none;
@@ -409,7 +405,7 @@ a.hoverline:hover {
   margin: 0;
   padding: 30px 0;
 }
-
+/* ------------------------------- */
 #experience .card-content .row {
   border-bottom: 1px solid #ddd;
   padding-bottom: 10px;
@@ -454,7 +450,7 @@ small {
 .grey-text {
   color: #666 !important;
 }
-
+/* ------------------------------- */
 /* main .teal-text */
 
 .teal-text {
@@ -560,7 +556,7 @@ small {
 
 @media (max-width: 600px) {
   h2 {
-    font-size: 22px;
+    font-size: 16px;
     line-height: 200%;
     margin: 30px 0 0;
   }
