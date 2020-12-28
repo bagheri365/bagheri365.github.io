@@ -94,7 +94,7 @@
 
 body {
   color: #333; /* color of text */
-  font-size: 12px; /* fontsize of text */
+  font-size: 10px; /* fontsize of text */
 }
 
 a {
@@ -352,11 +352,11 @@ h3 {
 
 .card ul li li {
   color: #666;
-  font-size: 13px;
+  font-size: 18px;
 }
 
 .card .card-title {
-  font-size: 24px;
+  font-size: 20px;
 }
 
 .card .card-content .card-title {
