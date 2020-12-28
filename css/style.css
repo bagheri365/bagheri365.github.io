@@ -216,6 +216,7 @@ li.logo span {
 }
 
 h3 {
+  font-size: 16px;
   font-weight: 200;
   margin-bottom: 60px;
   margin-top: 0;
@@ -508,7 +509,6 @@ small {
     line-height: 56px;
   }
   h3 {
-    font-size: 16px;
     padding: 20px 30px;
     margin-bottom: 40px;
   }
