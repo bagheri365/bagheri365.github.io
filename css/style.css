@@ -72,6 +72,15 @@
   background-color: #0077b5;
 }
 
+.email {
+  color: #3d0106;
+}
+
+.email:hover {
+  background-color: #3d0106;
+}
+
+
 .blogger {
   color: black;
 }
