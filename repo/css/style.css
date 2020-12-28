@@ -94,7 +94,7 @@
 
 body {
   color: #333; /* color of text */
-  font-size: 10px; /* fontsize of text */
+  font-size: 18px; /* fontsize of text */
 }
 
 a {
@@ -284,7 +284,7 @@ h3 {
 }
 
 .card .role {
-  font-size: 1.25rem;
+  font-size: 1rem;  /*1.25rem*/
   position: absolute;
   right: 38px;
   top: 35px;
@@ -310,7 +310,7 @@ h3 {
 }
 
 .card h5 {
-  font-size: 1.5rem;
+  font-size: 2rem;
   margin-bottom: -0.5rem;
   margin-top: 2rem;
 }
@@ -352,7 +352,7 @@ h3 {
 
 .card ul li li {
   color: #666;
-  font-size: 18px;
+  font-size: 13px;
 }
 
 .card .card-title {
@@ -360,7 +360,7 @@ h3 {
 }
 
 .card .card-content .card-title {
-  line-height: 2.5rem;
+  line-height: 3rem;
 }
 
 .card i.right {
