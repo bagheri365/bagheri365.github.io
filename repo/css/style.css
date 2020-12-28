@@ -135,7 +135,6 @@ blockquote * {
   font-size: 17px;
   font-weight: normal;
 }
-
 /* ------------------------------- */
 /* main nav */
 
@@ -246,7 +245,7 @@ h3 {
   padding-bottom: 30px;
   margin-top: 0px;
   position: relative;
-  text-align: left;
+  text-align: start;
 }
 
 .full-height {
